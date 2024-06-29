@@ -1,0 +1,1 @@
+this is question for making mathematic pascal triangle
