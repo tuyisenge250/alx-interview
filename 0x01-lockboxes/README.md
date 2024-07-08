@@ -1,0 +1,1 @@
+Lockbox services are designed to expedite the collection of paper-based payments and provide timely payment information to update accounts receivable records
