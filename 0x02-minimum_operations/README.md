@@ -1,0 +1,1 @@
+this is process of shows how to write the prime factorization using exponential notation. A prime number is a number that is only divisible by itself and one. Created by Sal Khan and Monterey Institute for Technology and Education.
