@@ -1,0 +1,1 @@
+the process of ensuring that a given sequence of bytes adheres to the rules and specifications of the UTF-8 encoding. The rules and specifications are: Single-Byte Characters (ASCII): Characters from ASCII (0 to 127) use a single byte, starting with 0.
